@@ -13,11 +13,11 @@ http://stackoverflow.com/questions/6297991/is-there-any-way-to-detect-strings-li
 
 First train the model:
 
-node gib\_detect\_train.js
+node gib\_detect.js
 
 Then try it on some sample test
 
-node gib\_detect.js
+node test.js
 
 ## How it works
 
