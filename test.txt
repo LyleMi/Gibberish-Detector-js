@@ -17,3 +17,12 @@ ytjkacvzw
 yutthasxcvqer
 seems okay
 yay!
+vm
+opt
+self
+dummyCom
+DummyComObject
+sandbox
+context
+monkeyPatch
+handler
